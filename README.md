@@ -1,6 +1,4 @@
-Certainly! Here's a formal version of your project description for the README on GitHub:
 
----
 
 # Autonomous Resume Screening Project
 
@@ -33,7 +31,7 @@ The resume and job description dataset used in this project can be downloaded fr
 3. **Cosine Similarity for Comparison**:
    - Cosine Similarity was used to compare the embeddings of resumes with job descriptions, producing similarity scores between 0 and 1. A higher score indicates a closer match.
 
-4. Merging
+4. **Merging**
    - Resumes were merged with the job descriptions based on their similarity scores. The final dataset includes the resumes, job descriptions, and their corresponding similarity scores.
 
 5. **Output**:
