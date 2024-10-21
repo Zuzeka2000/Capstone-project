@@ -18,7 +18,7 @@ The goal of this project is to provide an automated solution for comparing resum
 
 ### Data
 
-The resume and job description dataset used in this project can be downloaded from [Kaggle](#). After preprocessing, the resumes and job descriptions are converted into numerical vectors using BERT embeddings, which capture the semantic meaning of the text.
+The resume and job description dataset used in this project can be downloaded from https://www.kaggle.com/datasets/pranavvenugo/resume-and-job-description . After preprocessing, the resumes and job descriptions are converted into numerical vectors using BERT embeddings, which capture the semantic meaning of the text.
 
 ### Steps Involved
 
@@ -45,7 +45,3 @@ The resume and job description dataset used in this project can be downloaded fr
 ### Conclusion
 
 This project presents an automated approach to resume screening using advanced NLP and machine learning techniques. By leveraging BERT embeddings and Cosine Similarity, the system efficiently ranks resumes according to their relevance to specific job descriptions, making the recruitment process faster and more effective.
-
----
-
-You can adjust the placeholder link to Kaggle when you add the actual URL.
